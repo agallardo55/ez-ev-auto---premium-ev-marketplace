@@ -3,7 +3,6 @@ import React from 'react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import Inventory from './components/Inventory';
-import AIAssistant from './components/AIAssistant';
 import Footer from './components/Footer';
 import { Shield, Battery, Zap, Globe } from 'lucide-react';
 
@@ -114,7 +113,6 @@ const App: React.FC = () => {
       </main>
 
       <Footer />
-      <AIAssistant />
     </div>
   );
 };
