@@ -1,0 +1,8 @@
+{
+  "name": "EZ EV Auto - Premium EV Marketplace",
+  "description": "A sophisticated, professional marketplace for electric vehicles featuring an intelligent AI-powered EV advisor powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
